@@ -1,0 +1,247 @@
+{
+    "carrot": {
+        "category": "Vegetables",
+        "price": "$1.20 per lb",
+        "discount_price": "$1.00 per lb",
+        "stock": "Available",
+        "properties": "Rich in beta-carotene",
+        "benefits": "Good for eyesight and skin",
+        "nutrition": "High in fiber and vitamins",
+        "medical_benefit": "Helps improve vision",
+        "location": "Vegetables Aisle"
+    },
+    "potato": {
+        "category": "Vegetables",
+        "price": "$0.80 per lb",
+        "discount_price": "$0.70 per lb",
+        "stock": "Available",
+        "properties": "High in starch",
+        "benefits": "Provides energy",
+        "nutrition": "Rich in carbohydrates",
+        "medical_benefit": "Aids digestion",
+        "location": "Vegetables Aisle"
+    },
+    "broccoli": {
+        "category": "Vegetables",
+        "price": "$2.50 per lb",
+        "discount_price": "$2.20 per lb",
+        "stock": "Available",
+        "properties": "Rich in antioxidants",
+        "benefits": "Supports immunity",
+        "nutrition": "High in vitamins C and K",
+        "medical_benefit": "May help reduce inflammation",
+        "location": "Vegetables Aisle"
+    },
+    "spinach": {
+        "category": "Vegetables",
+        "price": "$1.50 per bunch",
+        "discount_price": "$1.30 per bunch",
+        "stock": "Available",
+        "properties": "Leafy green vegetable",
+        "benefits": "Boosts iron levels",
+        "nutrition": "High in iron and folate",
+        "medical_benefit": "Supports healthy blood circulation",
+        "location": "Vegetables Aisle"
+    },
+    "tomato": {
+        "category": "Vegetables",
+        "price": "$1.80 per lb",
+        "discount_price": "$1.50 per lb",
+        "stock": "Available",
+        "properties": "Juicy and red",
+        "benefits": "Good for skin and heart",
+        "nutrition": "Rich in vitamin C and lycopene",
+        "medical_benefit": "May reduce risk of heart disease",
+        "location": "Vegetables Aisle"
+    },
+    "apple": {
+        "category": "Fruits",
+        "price": "$2.00 per lb",
+        "discount_price": "$1.80 per lb",
+        "stock": "Available",
+        "properties": "Crunchy and sweet",
+        "benefits": "Good for heart health",
+        "nutrition": "Rich in fiber and antioxidants",
+        "medical_benefit": "Improves digestion",
+        "location": "Fruits Aisle"
+    },
+    "banana": {
+        "category": "Fruits",
+        "price": "$1.50 per dozen",
+        "discount_price": "$1.20 per dozen",
+        "stock": "Available",
+        "properties": "Soft and nutritious",
+        "benefits": "Provides quick energy",
+        "nutrition": "Rich in potassium",
+        "medical_benefit": "Supports heart health",
+        "location": "Fruits Aisle"
+    },
+    "grapes": {
+        "category": "Fruits",
+        "price": "$2.50 per lb",
+        "discount_price": "$2.00 per lb",
+        "stock": "Available",
+        "properties": "Small and juicy",
+        "benefits": "Good for skin health",
+        "nutrition": "Rich in antioxidants",
+        "medical_benefit": "May reduce inflammation",
+        "location": "Fruits Aisle"
+    },
+    "orange": {
+        "category": "Fruits",
+        "price": "$1.80 per lb",
+        "discount_price": "$1.50 per lb",
+        "stock": "Available",
+        "properties": "Citrus fruit",
+        "benefits": "Boosts immunity",
+        "nutrition": "High in vitamin C",
+        "medical_benefit": "May improve skin health",
+        "location": "Fruits Aisle"
+    },
+    "strawberry": {
+        "category": "Fruits",
+        "price": "$3.00 per lb",
+        "discount_price": "$2.70 per lb",
+        "stock": "Available",
+        "properties": "Sweet and juicy",
+        "benefits": "Good for skin and digestion",
+        "nutrition": "Rich in vitamin C and fiber",
+        "medical_benefit": "Supports immune system",
+        "location": "Fruits Aisle"
+    },
+    "milk": {
+        "category": "Dairy",
+        "price": "$4.00 per gallon",
+        "discount_price": "$3.80 per gallon",
+        "stock": "Available",
+        "properties": "Rich in calcium",
+        "benefits": "Strengthens bones",
+        "nutrition": "High in protein and vitamin D",
+        "medical_benefit": "Prevents osteoporosis",
+        "location": "Dairy Section"
+    },
+    "cheese": {
+        "category": "Dairy",
+        "price": "$5.00 per lb",
+        "discount_price": "$4.50 per lb",
+        "stock": "Available",
+        "properties": "Aged dairy product",
+        "benefits": "Good for bone health",
+        "nutrition": "Rich in calcium and protein",
+        "medical_benefit": "Supports muscle growth",
+        "location": "Dairy Section"
+    },
+    "butter": {
+        "category": "Dairy",
+        "price": "$3.50 per pack",
+        "discount_price": "$3.20 per pack",
+        "stock": "Available",
+        "properties": "Creamy and smooth",
+        "benefits": "Adds flavor to food",
+        "nutrition": "Rich in healthy fats",
+        "medical_benefit": "Provides essential fatty acids",
+        "location": "Dairy Section"
+    },
+    "yogurt": {
+        "category": "Dairy",
+        "price": "$2.50 per cup",
+        "discount_price": "$2.20 per cup",
+        "stock": "Available",
+        "properties": "Fermented dairy product",
+        "benefits": "Supports digestion",
+        "nutrition": "Rich in probiotics and protein",
+        "medical_benefit": "Improves gut health",
+        "location": "Dairy Section"
+    },
+    "cream": {
+        "category": "Dairy",
+        "price": "$4.50 per pint",
+        "discount_price": "$4.00 per pint",
+        "stock": "Available",
+        "properties": "Thick and rich",
+        "benefits": "Used in cooking and desserts",
+        "nutrition": "High in fats and vitamins",
+        "medical_benefit": "Supports healthy weight gain",
+        "location": "Dairy Section"
+     },
+        "Honda Civic": {
+          "category": "Cars",
+          "price": "$25,000",
+          "features": "Automatic, Hybrid, 5-seater",
+          "brand": "Honda",
+          "rating": "4.5/5",
+          "warranty": "3 years"
+        },
+        "Tesla Model 3": {
+          "category": "Cars",
+          "price": "$42,000",
+          "features": "Electric, Autopilot, 5-seater",
+          "brand": "Tesla",
+          "rating": "4.8/5",
+          "warranty": "4 years"
+        },
+        "Nike Running Shoes": {
+          "category": "Sports",
+          "price": "$120",
+          "features": "Breathable, Lightweight, Durable",
+          "brand": "Nike",
+          "rating": "4.6/5",
+          "warranty": "6 months"
+        },
+        "Adidas Soccer Cleats": {
+          "category": "Sports",
+          "price": "$150",
+          "features": "Firm Ground, Synthetic Leather, Ankle Support",
+          "brand": "Adidas",
+          "rating": "4.7/5",
+          "warranty": "1 year"
+        },
+        "Mountain Bike": {
+          "category": "Bikes",
+          "price": "$800",
+          "features": "21-speed, Alloy Frame, Suspension",
+          "brand": "Trek",
+          "rating": "4.5/5",
+          "warranty": "2 years"
+        },
+        "Road Bike": {
+          "category": "Bikes",
+          "price": "$1,200",
+          "features": "Carbon Frame, 18-speed, Lightweight",
+          "brand": "Giant",
+          "rating": "4.6/5",
+          "warranty": "2 years"
+        },
+        "Evening Gown": {
+          "category": "Dress",
+          "price": "$350",
+          "features": "Silk, Floor-length, Designer",
+          "brand": "Gucci",
+          "rating": "4.9/5",
+          "warranty": "No warranty"
+        },
+        "Men's Suit": {
+          "category": "Clothing",
+          "price": "$500",
+          "features": "Wool, Tailored Fit, 3-piece",
+          "brand": "Armani",
+          "rating": "4.8/5",
+          "warranty": "No warranty"
+        },
+        "Smartphone": {
+          "category": "Electronics",
+          "price": "$999",
+          "features": "5G, OLED Display, 128GB Storage",
+          "brand": "Apple",
+          "rating": "4.7/5",
+          "warranty": "1 year"
+        },
+        "Laptop": {
+          "category": "Electronics",
+          "price": "$1,500",
+          "features": "16GB RAM, 512GB SSD, Touchscreen",
+          "brand": "Dell",
+          "rating": "4.6/5",
+          "warranty": "2 years"
+        }
+}
